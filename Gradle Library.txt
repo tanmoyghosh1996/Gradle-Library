@@ -4,3 +4,4 @@ For Circle Picture : compile 'de.hdodenhof:circleimageview:2.2.0'
 
 For RecyclerView Example : implementation 'com.android.support:recyclerview-v7:26.1.0'
 
+For TabView Example : implementation 'com.android.support:design:26.1.0'
