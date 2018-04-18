@@ -17,3 +17,5 @@ For Validation : implementation 'com.android.support:appcompat-v7:27.0.2'
                  implementation 'com.basgeekball:awesome-validation:4.1'
 
 For fancy dialogs : compile 'com.yarolegovich:lovely-dialog:1.1.0'
+
+picaso library : implementation 'com.squareup.picasso:picasso:2.71828'
